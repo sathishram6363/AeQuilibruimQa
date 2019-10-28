@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23031" started-at="2019-10-27T18:18:56Z" finished-at="2019-10-27T18:19:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23031" started-at="2019-10-27T18:18:56Z" finished-at="2019-10-27T18:19:19Z">
+      <class name="endTests.AssignmentTest">
+        <test-method status="PASS" signature="createReports()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="createReports" is-config="true" duration-ms="1541" started-at="2019-10-27T18:18:55Z" finished-at="2019-10-27T18:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReports -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="launchBrowser" is-config="true" duration-ms="10596" started-at="2019-10-27T18:18:56Z" finished-at="2019-10-27T18:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="lockedTest()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="lockedTest" duration-ms="2685" started-at="2019-10-27T18:19:07Z" finished-at="2019-10-27T18:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lockedTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="loginTest" duration-ms="1893" started-at="2019-10-27T18:19:10Z" finished-at="2019-10-27T18:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="logoutTest" duration-ms="1073" started-at="2019-10-27T18:19:12Z" finished-at="2019-10-27T18:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="validateCartTest()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="validateCartTest" duration-ms="3777" started-at="2019-10-27T18:19:13Z" finished-at="2019-10-27T18:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartTest -->
+        <test-method status="PASS" signature="validateRemoveCartTsest()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="validateRemoveCartTsest" duration-ms="1270" started-at="2019-10-27T18:19:16Z" finished-at="2019-10-27T18:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRemoveCartTsest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="quitBrowser" is-config="true" duration-ms="1699" started-at="2019-10-27T18:19:18Z" finished-at="2019-10-27T18:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:endTests.AssignmentTest@53b32d7]" name="flushReports" is-config="true" duration-ms="445" started-at="2019-10-27T18:19:20Z" finished-at="2019-10-27T18:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- endTests.AssignmentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
