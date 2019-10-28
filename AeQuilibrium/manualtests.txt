@@ -1,0 +1,14 @@
+Test with standard user and verify user should be logged in suucessfull
+Test with locked user and it should give a response message "Sorry, this user has been locked out."
+Test with problem user and verify that product images will not be loaded 
+Test wtih performance glitch user and verify that products loading takes long time
+Test the logout functionality and very that user is redirecting to login screen again
+Test all items and check that the page should load all items
+Test About functionality which should take saucelabs page 
+Test Reset App State which should reset the cart to original state
+Test the sort functionality from the drop down with diffrenet values like name(A to Z),name(Z to A),price(low to high),price()
+Test checkout functionality from cart page 
+Test remove functionality from cart page
+Test the complete order placement until the order is successfully placed
+Test add to cart functionality for random products and observe we can add one prodct ony
+Test Remove functionality for the added product 
